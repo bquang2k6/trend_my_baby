@@ -133,3 +133,6 @@ mute.addEventListener("click", function () {
 		this.classList.add("muted");
 	}
 });
+window.onload = function() {
+    window.location.href = "index2.html";
+};
